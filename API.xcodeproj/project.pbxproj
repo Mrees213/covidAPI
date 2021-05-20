@@ -11,6 +11,7 @@
 		1D543F6325E5642900F4417F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D543F6225E5642900F4417F /* ContentView.swift */; };
 		1D543F6525E5642E00F4417F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D543F6425E5642E00F4417F /* Assets.xcassets */; };
 		1D543F6825E5642E00F4417F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D543F6725E5642E00F4417F /* Preview Assets.xcassets */; };
+		1D9364AB2649C68800A3AC8A /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9364AA2649C68800A3AC8A /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		1D543F6425E5642E00F4417F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1D543F6725E5642E00F4417F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1D543F6925E5642E00F4417F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1D9364AA2649C68800A3AC8A /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				1D543F6225E5642900F4417F /* ContentView.swift */,
 				1D543F6425E5642E00F4417F /* Assets.xcassets */,
 				1D543F6925E5642E00F4417F /* Info.plist */,
+				1D9364AA2649C68800A3AC8A /* SwiftyJSON.swift */,
 				1D543F6625E5642E00F4417F /* Preview Content */,
 			);
 			path = API;
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1D9364AB2649C68800A3AC8A /* SwiftyJSON.swift in Sources */,
 				1D543F6325E5642900F4417F /* ContentView.swift in Sources */,
 				1D543F6125E5642900F4417F /* APIApp.swift in Sources */,
 			);
